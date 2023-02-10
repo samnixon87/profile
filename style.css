@@ -1,0 +1,209 @@
+@media (min-width: 960px) {
+
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+  .logo {
+    margin: 20px 10px 10px 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+
+  body {
+    background-color: #F7F9FC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+
+  .card {
+    margin: 5px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1);
+  }
+
+  h1 {
+    font-size: 30px;
+    margin: 3 auto;
+  }
+
+  h2 {
+    font-size: 15px;
+    margin: 0px 0px 10px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+   color:blue;
+  }
+
+  .links {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .logo {
+    margin: 20px 10px 10px 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+
+  body {
+    background-color: #F7F9FC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+
+  .card {
+    margin: 5px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1);
+  }
+
+  h1 {
+    font-size: 30px;
+    margin: 3 auto;
+  }
+
+  h2 {
+    font-size: 15px;
+    margin: 0px 0px 10px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+  color:blue;
+  }
+
+  .links {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+}
+
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .logo {
+    margin: 20px 10px 10px 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+
+  body {
+    background-color: #F7F9FC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+
+  .card {
+    margin: 5px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1);
+  }
+
+  h1 {
+    font-size: 30px;
+    margin: 3 auto;
+  }
+
+  h2 {
+    font-size: 15px;
+    margin: 0px 0px 10px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+  color:blue;
+  }
+
+  .links {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
+}
+
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .logo {
+    margin: 20px 10px 10px 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+
+  body {
+    background-color: #F7F9FC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+  }
+
+  .card {
+    margin: 5px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1);
+  }
+
+  h1 {
+    font-size: 30px;
+    margin: 3 auto;
+  }
+
+  h2 {
+    font-size: 15px;
+    margin: 0px 0px 10px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+  color:blue;
+  }
+
+  .links {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+}
